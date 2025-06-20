@@ -11,6 +11,8 @@
 - 👾 Atualmente estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 💡 Apaixonado por tecnologia e desenvolvimento web
 - 🚀 Sempre em busca de novos desafios e aprendizados
+- 💻 Trabalho como freelancer desenvolvendo APIs, sites e sistemas em C#, ASP.NET Core e Angular, entregando soluções práticas e personalizadas para cada cliente.
+- 🎈 Meu hobby é explorar novas tecnologias e desenvolvimento. E, de vez em quando, também curto jogar — se quiser marcar algo, meu Discord está nos contatos!
 
 ---
 
@@ -27,13 +29,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
 </p>
 
----
-
-
-### 🤝 Vamos conectar?
-
-- [LinkedIn](https://www.linkedin.com/in/lucasbombilio)
-- lucas.bom.gon2132@gmail.com
 
 ---
 
+### 📧 Contato Profissional
+
+- **E-mail:** lucas.bom.gon2132@gmail.com
+
+---
+
+### 🌐 Redes e Contatos Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbombilio)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/441711419789148161)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbomgon_/profilecard/?igsh=NGVyaW44NmR2ZzM3)
+
+---
